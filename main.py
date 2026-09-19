@@ -5,8 +5,6 @@ import requests
 from datetime import datetime
 from email.mime.text import MIMEText
 
-load_dotenv()
-
 # ==============================
 # CONFIGURATION
 # ==============================
