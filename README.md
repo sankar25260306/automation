@@ -1,6 +1,6 @@
 # Daily Weather Email Bot
 
-Sends you a weather report for **Dindigul, Tamil Nadu** by email every
+Sends you a weather report for **singapore** by email every
 morning at **6:00 AM IST**, automatically, using GitHub Actions.
 
 ## How it works
