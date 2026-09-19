@@ -4,9 +4,6 @@ import requests
 
 from datetime import datetime
 from email.mime.text import MIMEText
-# ==============================
-# CONFIGURATION
-# ==============================
 
 OWM_API_KEY = "3b66888ac7448eedc14a7355d2b1e785"
 GMAIL_USER = "1212sankar1212@gmail.com"
