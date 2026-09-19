@@ -4,7 +4,6 @@ import requests
 
 from datetime import datetime
 from email.mime.text import MIMEText
-
 # ==============================
 # CONFIGURATION
 # ==============================
